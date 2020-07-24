@@ -1,13 +1,11 @@
-# COMM7410-Text-Mining-Team-Project
-It's our COMM7410 Computational Jornalism group project.
+# Analysis of Gender Awareness through Primary School Textbooks in Mainland China
+
 Team member:
 - SU Yue 
 - LIN Xin 
 - SHI Zhongwei 
 - CHU Bingyang 
 Hong Kong Baptist University
-
-# Analysis of Gender Awareness through Primary School Textbooks in Mainland China
 
 ## Abstract
 
