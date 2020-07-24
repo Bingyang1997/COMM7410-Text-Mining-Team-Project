@@ -5,7 +5,8 @@ Team member:
 - LIN Xin 
 - SHI Zhongwei 
 - CHU Bingyang 
-Hong Kong Baptist University
+
+(Hong Kong Baptist University)
 
 ## Abstract
 
