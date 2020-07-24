@@ -1,5 +1,11 @@
 # COMM7410-Text-Mining-Team-Project
 It's our COMM7410 Computational Jornalism group project.
+Team member:
+- SU Yue 
+- LIN Xin 
+- SHI Zhongwei 
+- CHU Bingyang 
+Hong Kong Baptist University
 
 # Analysis of Gender Awareness through Primary School Textbooks in Mainland China
 
@@ -17,4 +23,4 @@ As for the researching methods, we use literature research. Before concentrating
 
 Besides, we use the method of comparative analysis. We would like to compare the conclusion we draw after analyzing the data with the syllabus published by the official education bureau, trying to figure out whether the materials of the textbooks achieve educating primary school students, as the syllabus says. (Ding Qiuyun, 2017)
 
-Content analysis/ text analysis is also used in our project. We focus on every single word they use. The frequency of verbs, the emotions with the adjacency and the ratio of two genders in illustrations are all included. These content research ways are useful to help us come to a better conclusion. (Wang Juan, 2013) And I would like to introduce the method of image analysis, which also belongs to content analysis. There are plenty of illustrations in the textbooks. Figuring out the number of characters and their occupation ratio in the whole image are two ways to do the analysis. How many pictures contain only males or only females and how are their relationships are essential factors. ( Zong Guoqing, 2017)
+Text analysis is also used in our project. We focus on every single word they use. The frequency of verbs, the emotions with the adjacency and the ratio of two genders in illustrations are all included. These content research ways are useful to help us come to a better conclusion. (Wang Juan, 2013) And I would like to introduce the method of image analysis, which also belongs to content analysis. There are plenty of illustrations in the textbooks. Figuring out the number of characters and their occupation ratio in the whole image are two ways to do the analysis. How many pictures contain only males or only females and how are their relationships are essential factors. ( Zong Guoqing, 2017)
